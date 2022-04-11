@@ -6,6 +6,7 @@ This project is a small 2D game with minilibx.
 ![game screenshot](https://raw.githubusercontent.com/thomasbrq/so_long/master/readme_img/game.png)
 
 ## How to use
+![Compile with macos](https://badgen.net/badge/build/macOS/grey?icon=apple)
 
 Clone the project
 ```bash
